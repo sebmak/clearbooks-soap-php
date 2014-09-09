@@ -3,5 +3,5 @@
 	"description": "Clearbooks SOAP PHP sdk",
 	"keywords": ["clearbooks", "soap"],
 	"license": "MIT",
-	"type": "project",
+	"type": "project"
 }
