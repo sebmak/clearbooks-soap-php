@@ -3,5 +3,13 @@
 	"description": "Clearbooks SOAP PHP sdk",
 	"keywords": ["clearbooks", "soap"],
 	"license": "MIT",
-	"type": "project"
+	"type": "sdk",
+    "homepage": "https://github.com/clearbooks/clearbooks-soap-php",
+    "authors": [
+        {
+            "name": "Adrian Clay",
+            "homepage": "https://github.com/adrianclay",
+            "role": "Developer"
+        }
+    ],
 }
