@@ -1,9 +1,9 @@
 {
-	"name": "sebmak/clearbooks-soap-php",
-	"description": "Clearbooks SOAP PHP sdk",
-	"keywords": ["clearbooks", "soap"],
-	"license": "MIT",
-	"type": "sdk",
+    "name": "sebmak/clearbooks-soap-php",
+    "description": "Clearbooks SOAP PHP sdk",
+    "keywords": ["clearbooks", "soap"],
+    "license": "MIT",
+    "type": "sdk",
     "homepage": "https://github.com/clearbooks/clearbooks-soap-php",
     "authors": [
         {
@@ -11,5 +11,10 @@
             "homepage": "https://github.com/adrianclay",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "Clearbooks\\Soap\\": "src/"
+        }
+    }
 }
