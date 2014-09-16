@@ -1,4 +1,4 @@
-<?php
+<?php namespace Clearbooks\Soap;
 /**
  * @author Clear Books <api@clearbooks.co.uk>
  * @version 1.0
